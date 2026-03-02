@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto consiste na implementação de um sistema simplificado de gerenciamento de clínica médica, desenvolvido com o objetivo de aplicar os fundamentos de Programação Orientada a Objetos II (POO II), conforme os conteúdos estudados em POO I.
+Este projeto consiste na implementação de um sistema simplificado de gerenciamento de clínica médica, desenvolvido com o objetivo de aplicar os fundamentos de Programação Orientada a Objetos (POO), conforme os conteúdos estudados em POO I.
 
 O sistema contempla o cadastro e relacionamento entre:
 
@@ -140,5 +140,6 @@ O projeto demonstra aplicação prática dos principais conceitos de Programaç�
 - Construtores com validação  
 - Regras de negócio  
 - Organização estrutural  
+
 
 A modelagem foi realizada buscando clareza, coerência e aderência às boas práticas de POO.
